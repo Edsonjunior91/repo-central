@@ -1,7 +1,7 @@
 package biblioteca;
 
 public class UsuariosUtils {
-	public boolean autenticar() {
+	public boolean login() {
 		return false;
 	}
 }
